@@ -1,0 +1,8 @@
+<html>
+<body>
+<h2>Index 2</h2>
+<?php 
+echo ('test the 2nd page');
+?>
+</body>
+</html>
